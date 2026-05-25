@@ -88,7 +88,7 @@ Argus is designed for:
 ### Option A — Run directly (no install)
 
 ```bash
-git clone https://github.com/yourusername/argus.git
+git clone https://github.com/Spaceheadddd/argus.git
 cd argus
 pip install -r requirements.txt
 python3 main.py https://target.com
@@ -97,7 +97,7 @@ python3 main.py https://target.com
 ### Option B — Install as a command (`argus`)
 
 ```bash
-git clone https://github.com/yourusername/argus.git
+git clone https://github.com/Spaceheadddd/argus.git
 cd argus
 pip install .
 argus https://target.com
@@ -108,7 +108,7 @@ After installation, the `argus` command is available globally in your shell.
 ### Option C — Virtual environment (recommended)
 
 ```bash
-git clone https://github.com/yourusername/argus.git
+git clone https://github.com/Spaceheadddd/argus.git
 cd argus
 python3 -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
